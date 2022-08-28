@@ -11,5 +11,6 @@
 	such as the DCS system DeltaV of Emerson Process Management, and Yokogawa systems.
 	Now I decided to structure my knowledge in software development. 
 	Since all my knowledge was based on an independent study of the principles and methods of programming. 
-	Therefore, I decided to take the courses offered by Bloomtech, and then I wanted to try my ability to work in one of the big technology companies.
+	Therefore, I decided to take the courses offered by Bloomtech, 
+	and then I wanted to try my ability to work in one of the big technology companies.
 	So, I'm just a programming fan.
