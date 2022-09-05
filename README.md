@@ -9,6 +9,6 @@ It was in the late nineties. At this time I wrote programs for creating Database
 At the beginning of the two thousandths, I started interested in process automation systems. 
 I developed and implemented algorithms for process control in oil refining based on automation systems 
 such as the DCS system DeltaV of Emerson Process Management, and Yokogawa systems.
-Now I am interested in developing programs based on the Java.
-So I decided to take the courses offered by Bloomtech, and then I wanted to try my ability as a Backend developer.
+Now I am interested in developing programs based on Java. So I decided to take the courses offered by Bloomtech,
+and then I want to try my ability as a Backend developer.
 So, I'm just a programming fan.
