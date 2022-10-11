@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dmitry Razborov</h1>
 <h3 align="center">I'm a programming fan.</h3>
 
+<h3 align="justify">I'm a programming fan.</h3>
+
     For the first time, I encountered programming in the nineties of the last century. In my first job, I wrote programs 
     on Assembler for controllers that controlled the technological process. Later I started interested in higher-level 
     programming languages C++ and VisualBasic. It was in the late nineties. At this time I wrote programs for creating 
