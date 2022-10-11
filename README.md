@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dmitry Razborov</h1>
 <h3 align="center">I'm a programming fan.</h3>
 
+- 🔭 Technical skills **Java, Java Application Development, Back-end, Amazon Dynamodb, Amazon Lambda, Amazon IAM, Amazon API Gateway**
+
 - 🌱 I’m currently learning **at Bloom Institute of Technology**
 
 - 📫 How to reach me **razborovdb@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing](https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing)
-
-- My technical skills:
-
-Java, Java Application Development, Back-end, Amazon Dynamodb, Amazon Lambda, Amazon IAM, Amazon API Gateway
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
