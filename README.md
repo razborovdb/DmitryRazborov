@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences 
 <p align="left">
-<a href="https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing](https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razborovdb" height="30" width="40" /></a>
+<a href="https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing](https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing" target="blank"></a>
 </p>
 
 [https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing](https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing)
