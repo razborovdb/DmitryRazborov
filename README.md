@@ -1,25 +1,18 @@
-Hi, there.
+<h1 align="center">Hi ðŸ‘‹, I'm Dmitry Razborov</h1>
+<h3 align="center">I'm a programming fan.</h3>
 
-I'm Dmitry Razborov.
+- ðŸŒ± Iâ€™m currently learning **at Bloom Institute of Technology**
 
-I'm a programming fan.
+- ðŸ“« How to reach me **razborovdb@gmail.com**
 
-For the first time, I encountered programming in the nineties of the last century.
+- ðŸ“„ Know about my experiences [https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing](https://docs.google.com/document/d/1TZPt2alOyG5DF4faRhvwQG-4sgAiWFD_eXSU-lGcaG4/edit?usp=sharing)
 
-In my first job, I wrote programs on Assembler for controllers that controlled the technological process.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/razborovdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razborovdb" height="30" width="40" /></a>
+</p>
 
-Later I started interested in higher-level programming languages C++ and VisualBasic. 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-It was in the late nineties. At this time I wrote programs for creating Databases and User Interfaces.
 
-At the beginning of the two thousandths, I started interested in process automation systems. 
-
-I developed and implemented algorithms for process control in oil refining based on automation systems 
-
-such as the DCS system DeltaV of Emerson Process Management, and Yokogawa systems.
-
-Now I am interested in developing programs based on Java. So I decided to take the courses offered by Bloomtech,
-
-and then I want to try my ability as a Backend developer.
-
-So, I'm just a programming fan.
