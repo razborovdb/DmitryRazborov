@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dmitry Razborov</h1>
 <h3 align="center">I'm a programming fan.</h3>
 
-    For the first time, I encountered programming in the nineties of the last century. In my first job, I wrote programs on Assembler for controllers that controlled the technological process. Later I started interested in higher-level programming languages C++ and VisualBasic. It was in the late nineties. At this time I wrote programs for creating Databases and User Interfaces. At the beginning of the two thousandths, I started interested in process automation systems. I developed and implemented algorithms for process control in oil refining based on automation systems such as the DCS system DeltaV of Emerson Process Management, and Yokogawa systems. Now I decide to try my best in backend development. 
+    For the first time, I encountered programming in the nineties of the last century. In my first job, I wrote programs 
+    on Assembler for controllers that controlled the technological process. Later I started interested in higher-level 
+    programming languages C++ and VisualBasic. It was in the late nineties. At this time I wrote programs for creating 
+    Databases and User Interfaces. At the beginning of the two thousandths, I started interested in process automation 
+    systems. I developed and implemented algorithms for process control in oil refining based on automation systems such 
+    as the DCS system DeltaV of Emerson Process Management, and Yokogawa systems. 
+    Now I decide to try my best in backend development. 
   So, I'm just a programming fan.
 
 - 🔭 Technical skills **Java, Java Application Development, Back-end, Amazon Dynamodb, Amazon Lambda, Amazon IAM, Amazon API Gateway**
