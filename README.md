@@ -2,7 +2,7 @@
 <h3 align="center">I'm a programming fan.</h3>
 
 <p align="justify"> 
-        \tFor the first time, I encountered programming in the nineties of the last century. In my first job, I wrote programs 
+        For the first time, I encountered programming in the nineties of the last century. In my first job, I wrote programs 
     on Assembler for controllers that controlled the technological process. Later I started interested in higher-level 
     programming languages C++ and VisualBasic. It was in the late nineties. At this time I wrote programs for creating 
     Databases and User Interfaces. At the beginning of the two thousandths, I started interested in process automation 
