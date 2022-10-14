@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dmitry Razborov</h1>
-<h3 align="center">I'm a programming fan.</h3>
 
 <p align="justify"> 
         I first encountered programming in the nineties and in my first job I wrote programs on Assembler for controllers that controlled the technological process. Later I started interested in higher-level programming languages C++ and VisualBasic. At this time I wrote programs for creating databases and user interfaces. 
