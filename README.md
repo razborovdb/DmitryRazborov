@@ -12,7 +12,7 @@ In addition, I have a passion and interest in process automation systems. I deve
 Now, I have decided to take on backend development in which I enjoy. So I guess you could say, I'm just a programming fan and love what I do.</p>
 
 
-- 🔭 Technical skills **Java, Java Application Development, Back-end, Amazon Dynamodb, Amazon Lambda, Amazon IAM, Amazon API Gateway**
+- 🔭 Technical skills **Java, Java Application Development, Back-end, Amazon Dynamodb, Amazon Lambda, Amazon API Gateway, Spring Boot, REST API, Docker, PostgreSQL, Hibernate**
 
 - 🌱 I’m currently learning **at Bloom Institute of Technology**
 
