@@ -12,9 +12,9 @@ In addition, I have a passion and interest in process automation systems. I deve
 Now, I have decided to take on backend development and fullstack development in which I enjoy. So I guess you could say, I'm just a programming fan and love what I do.</p>
 
 
-- 🔭 Technical skills **Java, Java Application Development, REST API, NodeJS, React, Back-end, Amazon Dynamodb, Amazon Lambda, Amazon API Gateway, Spring Boot, REST API, Docker, PostgreSQL, MongoDB, Cassandra, Hibernate**
+- 🔭 Technical skills **Java, Java Application Development, REST API, NodeJS, React, Back-end, Amazon Dynamodb, Amazon Lambda, Amazon API Gateway, Spring Boot, REST API, Docker, PostgreSQL, MongoDB, Cassandra, Hibernate, GitHub**
 
-- 🌱 I’m currently learning **at Bloom Institute of Technology**
+- 🌱 I graduated **Bloom Institute of Technology**
 
 - 📫 How to reach me **razborovdb@gmail.com**
 
